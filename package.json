@@ -2,7 +2,7 @@
     "name": "panther-dark-theme",
     "displayName": "Panther Dark Theme",
     "description": "A beautiful, subtle, really dark theme.",
-    "version": "1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.32.0"
     },
