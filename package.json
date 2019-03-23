@@ -1,0 +1,23 @@
+{
+    "name": "panther-dark-theme",
+    "displayName": "Panther Dark Theme",
+    "description": "A beautiful, subtle, really dark theme.",
+    "version": "1.0",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Panther",
+                "uiTheme": "vs-dark",
+                "path": "./themes/panther.json"
+            }
+        ]
+    },
+    "author": "Emil Kreutzman",
+    "license": "MIT"
+}
