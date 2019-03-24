@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "panther-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Panther Dark Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Dark theme for VSCode. In part based on Microsoft's version of [Monokai](https://github.com/Microsoft/vscode/tree/master/extensions/theme-monokai) theme, as well as the VSCode default [Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json) theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+With the following changes:
 
-**Enjoy!**
+1. It's darker than Dark+. Tastefully so though: not completely black.
+2. Comments are green for added visibility. Why do most VSCode custom themes have grey comments?
+3. Tweaked to work well with Python and not only JS like a lot of themes.
+
+![Screenshot](screenshot.png)
